@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+vmMUnTS/zeA9zDwyi58HyZ2HNN1CVnMUP9utN2Y9psakcKYc2YyjdcW4ndgGyDwW5wLaKwOqZJFr9pEqrJgQ==",
+  "success": true,
+  "projectFilePath": "D:\\ATM machine\\ATM machine\\ATM machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeng\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Jeng\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jeng\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
